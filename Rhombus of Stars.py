@@ -10,7 +10,7 @@ def rhombus_of_stars(n):
         print(' ' * spaces + '* ' * stars)
 
 
-size = int(input('Enter size of rhombus: '))
+size = int(input('Enter the size of rhombus: '))
 rhombus_of_stars(size)
 
 # Enter size of rhombus: 3
